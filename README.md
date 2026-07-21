@@ -1,5 +1,8 @@
 # AI's Carbon Footprint
 
+**[Live site](https://ethical-tech-colab.github.io/ai-carbon-footprint/)** ·
+**[Research report](AICF-Paper.md)** (plain-language, non-technical)
+
 **The Environmental Impact of Artificial Intelligence** — an academic report from the [Ethical Tech CoLab](https://ethical-tech-colab.github.io/website/) (NYU SPS Center for Global Affairs × Microsoft).
 
 📄 **Read it:** https://ethical-tech-colab.github.io/ai-carbon-footprint/
