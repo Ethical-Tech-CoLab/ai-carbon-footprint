@@ -26,7 +26,7 @@ Views expressed are those of the researchers and do not represent the official p
 
 ## Peer Review
 
-An independent academic peer review of this report is available in [`peer-review/`](peer-review/) ([Word](peer-review/ai-carbon-footprint-Peer-Review.docx) &middot; [Markdown](peer-review/ai-carbon-footprint-Peer-Review.md)).
+The full independent academic peer review of this report is in [PEER-REVIEW.md](PEER-REVIEW.md) (also available as [Word](peer-review/ai-carbon-footprint-Peer-Review.docx) under [`peer-review/`](peer-review/)).
 
 **Recommendation:** Major revisions
 
