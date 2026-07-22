@@ -21,3 +21,19 @@ A single self-contained `index.html` (inline CSS, no build step), served via Git
 ---
 
 Views expressed are those of the researchers and do not represent the official positions of NYU, Microsoft, or any partner institution.
+
+---
+
+## Peer Review
+
+An independent academic peer review of this report is available in [`peer-review/`](peer-review/) ([Word](peer-review/ai-carbon-footprint-Peer-Review.docx) &middot; [Markdown](peer-review/ai-carbon-footprint-Peer-Review.md)).
+
+**Recommendation:** Major revisions
+
+**What the review found:**
+
+- Headline inference-energy figures contain a ~1,000x arithmetic error and the two scenarios contradict each other (S2).
+- A cluster of technical errors in S3: the PUE scale is stated backwards, the 626,000 lb CO2 figure is misattributed, and lithium/cobalt/nickel are miscalled rare-earth elements.
+- Mitigation section (S4) relays vendor self-reporting uncritically while omitting the peer-reviewed primary sources.
+
+**Noted strength:** The cooling-technology taxonomy and regulatory map (S3, S5) are clear, correct, and rarely assembled this cleanly.
