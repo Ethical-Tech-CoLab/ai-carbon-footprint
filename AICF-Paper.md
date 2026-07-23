@@ -484,6 +484,23 @@ cite. Each item below was checked against the primary source. None of these
 undermines the report's argument, which is well founded; all of them matter to
 anyone quoting a specific number onward.
 
+A note on status, added after peer review. Four of the items below have since
+been corrected in the report itself, and the descriptions are retained here in
+their original form because the corrected figures circulated for a period and a
+reader may hold either version. Items 9.2, 9.3, 9.4 and 9.6 are corrected: the
+626,000 pound figure is now attributed to the neural architecture search it
+belongs to, both inference-energy scenarios are recomputed in consistent units
+and labelled as illustrative upper bounds, and the power usage effectiveness
+scale is stated correctly. A mineralogy error not catalogued below, which
+described lithium, cobalt and nickel as rare earth elements, is also corrected;
+they are critical minerals, and the rare earths are the lanthanides plus
+scandium and yttrium. Items 9.1, 9.5, 9.7 and 9.8 stand as written and are
+matters for a future revision. Section 4 of the report, which relayed corporate sustainability
+claims at face value, has also been revised to distinguish a pledge from an
+achievement, market-based from location-based energy accounting, and an offset
+tonne from an unemitted one, and to cite the peer-reviewed primary studies
+directly rather than through the outlets that summarise them.
+
 9.1 The 552 tonne figure is not a coal-grid figure. As set out at 5.2, it is the
 estimate for the United States average electricity mix. Presenting it as the
 coal case understates how bad a genuinely coal-powered training run would be,
