@@ -38,6 +38,7 @@ The full independent academic peer review of this report is in [PEER-REVIEW.md](
 - Headline inference-energy figures contain a ~1,000x arithmetic error and the two scenarios contradict each other (S2). — **Fixed.**
 - A cluster of technical errors in S3: the PUE scale is stated backwards, the 626,000 lb CO2 figure is misattributed, and lithium/cobalt/nickel are miscalled rare-earth elements. — **Fixed.**
 - Mitigation section (S4) relays vendor self-reporting uncritically while omitting the peer-reviewed primary sources. — **Fixed.**
+- The thesis's load-bearing qualifier, that mitigation can cut AI's footprint "without hindering its development and role in advancing society," is asserted and never argued (thesis, S1, S7). — *Open.* This is the clause that distinguishes the report from a simple "AI is bad for the planet" polemic, and nothing in the body defends it. The two things it needs to engage are the rebound problem, that efficiency gains enable more use and the report's own "inference dominates at scale" argument implies exactly that, and the possibility that binding regulation slows deployment. The counter-thread that AI can be part of the solution is likewise carried by initiative names rather than by net-impact estimates. Fixing it means either arguing the clause or dropping it.
 
 **Noted strength:** The cooling-technology taxonomy and regulatory map (S3, S5) are clear, correct, and rarely assembled this cleanly.
 
